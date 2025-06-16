@@ -6,8 +6,8 @@ const Hero = () => {
       <div className="content">
         <div className="title">
           <h1>LET'S</h1>
-          <h1>GET</h1>
-          <h1>MOVING</h1>
+          <h1>START</h1>
+          <h1>GRINDING</h1>
         </div>
         <div className="sub-title">
           <p>Your Journey to Fitness Starts Here</p>
@@ -16,6 +16,7 @@ const Hero = () => {
         <div className="buttons">
           <button>Start Your Journey</button>
           <button>Discover Your Plan</button>
+          <button>About us</button>
         </div>
       </div>
     </section>

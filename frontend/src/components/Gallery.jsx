@@ -13,7 +13,7 @@ const Gallery = () => {
   ];
   return (
     <section className="gallery">
-      <h1>BETTER BEATS BEST</h1>
+      <h1>STRONG TODAY,STRONGER TOMMOROW</h1>
       <div className="images">
         <div>
           {gallery.slice(0, 3).map((element, index) => (
